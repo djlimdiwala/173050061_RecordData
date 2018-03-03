@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">173050061_RecordData</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_sensors">sensors</string>
+
+    <string-array name="Menu">
+        <item>SELECT</item>
+        <item>LOGIN</item>
+        <item>SENSORS</item>
+    </string-array>
+    <string name="title_activity_record">Record</string>
+</resources>
+
